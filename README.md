@@ -3,4 +3,4 @@
 
 Made in about an hour or two as an example solution for a class.
 
-Requires Unity 2020.2.3f1
+Requires Unity 2020.2.3f1 or later.
